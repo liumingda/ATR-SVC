@@ -1,0 +1,16 @@
+fairseq
+librosa
+matplotlib
+numpy==1.26.4
+praat-parselmouth
+pyworld
+PyYAML
+resampy
+scikit_learn
+scipy
+SoundFile
+torchcrepe
+torchfcpe
+tqdm
+transformers
+tensorboard

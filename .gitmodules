@@ -1,0 +1,3 @@
+[submodule "speaker_embedding/espnet"]
+	path = speaker_embedding/espnet
+	url = https://github.com/espnet/espnet.git
